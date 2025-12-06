@@ -1,3 +1,17 @@
+/*********************************************************************************
+*  WEB422 – Assignment 3
+*
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: Yigit Dalkilic Student ID: 124657230 Date: December 06, 2025
+*
+*  Vercel App (Deployed) Link: https://user-api-a3-dn2i.vercel.app/
+*
+*******************************************************************************/
+
 const express = require('express');
 const app = express();
 const cors = require("cors");
