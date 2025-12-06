@@ -9,7 +9,7 @@
 *  Name: Yigit Dalkilic Student ID: 124657230 Date: December 06, 2025
 *
 *  Vercel App (Deployed) Link: https://user-api-a3-dn2i.vercel.app/
-*
+*  Github: https://github.com/mancusmalala-tech/user-api-a3.git
 *******************************************************************************/
 
 const express = require('express');
